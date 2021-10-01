@@ -1,0 +1,19 @@
+{
+  "name": "express-prooject",
+  "version": "1.0.0",
+  "description": "project-express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": " nodemon server"
+  },
+  "author": "Cherif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react-bootstrap": "^1.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
